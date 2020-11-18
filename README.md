@@ -6,7 +6,7 @@ KOF93 is a game on windows93.net. My and my friend loved this game, and even tho
 
 Here are the files that I ripped from the website. Use them however you like. If a required file doesn't load (a red color in the Chrome dev tools network tab), just make an issue, and I'll add said file to the repo.
 
-The controls are listed in index.html, but you can view theme here:
+The controls are listed in index.html, but you can view them here:
 
 ```
 ## special moves ##
